@@ -1,5 +1,5 @@
 Classification based on gender and age
-##############
+--------------------------------------
 
 # For simple use
 To predict the class of the given image "female_1_10.jpg" Run classify.py as follows
