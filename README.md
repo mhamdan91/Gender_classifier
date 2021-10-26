@@ -1,4 +1,4 @@
-# This Repo contrains four files
+# This Repo contains four files
 * Data_preperation: contrains .py files that were used to generate and pre-process the dataset
 * out: contains weights extracted from the caffemodel
 * Phase_I: contains .py files that were used to convert the caffemodel to tensorflow like model
